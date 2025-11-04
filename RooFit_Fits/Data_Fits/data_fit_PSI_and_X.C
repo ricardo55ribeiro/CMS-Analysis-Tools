@@ -58,9 +58,9 @@ double getYatMass(RooPlot* frame, double mass) {
 }
 
 
-TString root_file_name = "XYZ.root"
-TString mc_psi2s_root_file_name = "MC_PSI_XYZ.root"
-TString mc_x3872_root_file_name = "MC_X_XYZ.root"
+TString root_file_name = "XYZ.root";
+TString mc_psi2s_root_file_name = "MC_PSI_XYZ.root";
+TString mc_x3872_root_file_name = "MC_X_XYZ.root";
 
 
 
