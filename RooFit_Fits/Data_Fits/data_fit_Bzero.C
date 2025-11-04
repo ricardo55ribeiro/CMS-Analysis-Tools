@@ -53,8 +53,8 @@ double getYatMass(RooPlot* frame, double mass) {
 }
 
 
-TString root_file_name = "XYZ.root"
-TString mc_root_file_name = "MC_XYZ.root"
+TString root_file_name = "XYZ.root";
+TString mc_root_file_name = "MC_XYZ.root";
 
 // B0 Particle
 void total_data_fit_Bd() {
